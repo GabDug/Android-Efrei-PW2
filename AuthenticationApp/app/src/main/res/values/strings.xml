@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="title_activity_authentication">Authentication</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="auth_status">Authentication status:</string>
+    <string name="auth_status_error">An error occurred while requesting data from httpbin.org</string>
+</resources>

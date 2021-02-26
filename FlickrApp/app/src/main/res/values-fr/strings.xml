@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flickr App</string>
+    <string name="todo">À faire</string>
+
+    <string name="button_get_image">Récupérer une image</string>
+    <string name="button_goto_list">Voir des images</string>
+    <string name="button_goto_settings">Paramètres</string>
+
+    <string name="title_activity_list">Liste d\'images</string>
+    <string name="title_activity_preference">Paramètres</string>
+
+    <string name="settings_flickr">Flickr</string>
+    <string name="settings_flickr_keyword_pref">Mot clé à rechercher sur Flickr</string>
+    <string name="settings_flickr_cache_pref">Activer le cache ?</string>
+    <string name="settings_flickr_location">Utiliser la position pour la liste ?</string>
+
+    <string name="toast_error_gps_permission">La permission de localisation est requise</string>
+    <string name="image_label">Image Flickr</string>
+</resources>

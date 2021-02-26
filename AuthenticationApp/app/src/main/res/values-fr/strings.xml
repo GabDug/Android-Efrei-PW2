@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Authentification</string>
+    <string name="authenticate">Connexion</string>
+    <string name="login">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="title_activity_authentication">Authentification</string>
+    <string name="auth_status">Statut d\'authentification :</string>
+    <string name="auth_status_error">Errur lors de la requête vers Httpbin</string>
+</resources>
